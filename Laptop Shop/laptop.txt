@@ -1,0 +1,10 @@
+Victus 16,HP          ,Ryzen 5 5600H,8gb ,Radeon RX 5500m,$1000,10
+Nitro 5  ,Acer        ,Ryzen 5 5600H,8gb ,GTX1650        ,$1200,15
+GF63     ,MSI         ,i5 9th GEN   ,8gb ,GTX1650ti      ,$1210,12
+TUF F15  ,Asus        ,i5 10th GEN  ,8gb ,GTX1650        ,$1250,9
+Legion 5 ,Lenevo      ,Ryzen 5 5600H,8gb ,RTX3050ti      ,$1300,13
+G3 G3590 ,Dell        ,i7 9th GEN   ,16gb,GTX1660ti      ,$1310,8
+Victus 16,HP          ,i7 11th GEN  ,16gb,RTX3050ti      ,$1330,9
+Helios   ,Acer        ,15 11th GEN  ,16gb,RTX3060        ,$1500,5
+Omen     ,Hp          ,i7 11th GEN  ,16gb,RTX3050ti      ,$1600,10
+Titon    ,Acer        ,i7 11th GEN  ,16gb,RTX3050ti      ,$2000,18
